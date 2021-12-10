@@ -18,6 +18,9 @@ namespace _4._1_черт_побери
                 case 'a':
                     Console.WriteLine("Введите а");
                     a = Convert.ToInt32(Console.ReadLine()); break;
+                case 'b':
+                    Console.WriteLine("Введите b");
+                    b = Convert.ToInt32(Console.ReadLine()); break;
             }
             Console.Write(rez);
             Console.ReadKey();
