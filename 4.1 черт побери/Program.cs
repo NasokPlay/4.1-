@@ -15,12 +15,16 @@ namespace _4._1_черт_побери
             c = Convert.ToChar(Console.ReadLine());
             switch (c)
             {
+<<<<<<< HEAD
                 case 'a':
                     Console.WriteLine("Введите а");
                     a = Convert.ToInt32(Console.ReadLine()); break;
                 case 'b':
                     Console.WriteLine("Введите b");
                     b = Convert.ToInt32(Console.ReadLine()); break;
+=======
+                case '+': rez = a + b; break;
+>>>>>>> plus
             }
             Console.Write(rez);
             Console.ReadKey();
