@@ -23,6 +23,7 @@ namespace _4._1_черт_побери
                     b = Convert.ToInt32(Console.ReadLine()); break;
 
                 case '+': rez = a + b; break;
+                case '-': rez = a - b; break;
 
             }
             Console.Write(rez);
