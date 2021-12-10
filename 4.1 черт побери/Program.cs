@@ -25,6 +25,8 @@ namespace _4._1_черт_побери
                 case '+': rez = a + b; break;
                 case '-': rez = a - b; break;
 
+                case '*': rez = a * b; break;
+
             }
             Console.Write(rez);
             Console.ReadKey();
