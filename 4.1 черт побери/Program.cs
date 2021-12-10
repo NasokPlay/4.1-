@@ -15,7 +15,9 @@ namespace _4._1_черт_побери
             c = Convert.ToChar(Console.ReadLine());
             switch (c)
             {
-
+                case 'a':
+                    Console.WriteLine("Введите а");
+                    a = Convert.ToInt32(Console.ReadLine()); break;
             }
             Console.Write(rez);
             Console.ReadKey();
