@@ -15,7 +15,7 @@ namespace _4._1_черт_побери
             c = Convert.ToChar(Console.ReadLine());
             switch (c)
             {
-
+                case '+': rez = a + b; break;
             }
             Console.Write(rez);
             Console.ReadKey();
