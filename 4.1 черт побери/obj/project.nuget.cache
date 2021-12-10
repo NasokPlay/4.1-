@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "doSrsqddI35Opz7z6GHesMkhjdweAgQNMlTSvIKks2Gxi3Psvk3kYv0tDZr2C/xDgtxjx2/4MPCexEM0a2sYAg==",
+  "success": true,
+  "projectFilePath": "E:\\4.1 черт побери\\4.1 черт побери\\4.1 черт побери.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дизайнер\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Дизайнер\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Дизайнер\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Дизайнер\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
