@@ -17,3 +17,11 @@ E:\4.1 черт побери\4.1 черт побери\obj\Debug\netcoreapp3.1\4
 E:\4.1 черт побери\4.1 черт побери\obj\Debug\netcoreapp3.1\4.1 черт побери.AssemblyInfoInputs.cache
 E:\4.1 черт побери\4.1 черт побери\obj\Debug\netcoreapp3.1\4.1 черт побери.AssemblyInfo.cs
 E:\4.1 черт побери\4.1 черт побери\obj\Debug\netcoreapp3.1\4.1 черт побери.csproj.CoreCompileInputs.cache
+E:\4.1 черт побери\4.1 черт побери\bin\Debug\netcoreapp3.1\4.1 черт побери.exe
+E:\4.1 черт побери\4.1 черт побери\bin\Debug\netcoreapp3.1\4.1 черт побери.deps.json
+E:\4.1 черт побери\4.1 черт побери\bin\Debug\netcoreapp3.1\4.1 черт побери.runtimeconfig.json
+E:\4.1 черт побери\4.1 черт побери\bin\Debug\netcoreapp3.1\4.1 черт побери.runtimeconfig.dev.json
+E:\4.1 черт побери\4.1 черт побери\bin\Debug\netcoreapp3.1\4.1 черт побери.dll
+E:\4.1 черт побери\4.1 черт побери\bin\Debug\netcoreapp3.1\4.1 черт побери.pdb
+E:\4.1 черт побери\4.1 черт побери\obj\Debug\netcoreapp3.1\4.1 черт побери.csproj.AssemblyReference.cache
+E:\4.1 черт побери\4.1 черт побери\obj\Debug\netcoreapp3.1\4.1 черт побери.genruntimeconfig.cache
